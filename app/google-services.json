@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "200523253722",
+    "project_id": "carspeedmonitor",
+    "storage_bucket": "carspeedmonitor.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:200523253722:android:5569c5d02ae9d5a44562e3",
+        "android_client_info": {
+          "package_name": "com.mehul.carspeedmonitor"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJVg9penWHUNy8xYHmuq1WfkmxFBbYv6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
